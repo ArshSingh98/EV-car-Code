@@ -4,7 +4,7 @@
  * Created: 7/9/2019 10:00:32 AM
  * Edited: 6/23/2021
  * Final Edits: 7/1/2021
- * Author : Nick Carter, Quinn Glancy, AdriAnne Welton, Arshpreet Singh
+ * Author : Arshpreet Singh
  *
  * Operation:
  *  Code is used to move autonomous vehicle along black taped path. Whilst the
